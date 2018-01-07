@@ -1,4 +1,1 @@
-# cs231n_assigment1
- Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition
-
-Assignment #1: Image Classification, kNN, SVM, Softmax, Neural Network
+Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Spring 2017.
